@@ -8,11 +8,29 @@ h1 {
     background-color: green;
     color: white;
     width: 50%;
-    margin: auto;
+    margin: 0 auto;
+    margin-bottom: 10px;    
 }
 
-.image {
-    height: 350px;
-    width: 31%;
+#images-container {
+    background: white;
+    padding-left: 35px; 
 }
 
+.food {
+    display: inline-block;
+    height: 450px;
+    width: 450px;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#food-list {
+    background: white;
+}
+
+.food-item {
+    padding: 10px 200px;
+}
