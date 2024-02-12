@@ -9,12 +9,14 @@ h1 {
     color: white;
     width: 50%;
     margin: 0 auto;
-    margin-bottom: 10px;    
+    margin-bottom: 20px;    
 }
 
 #images-container {
     background: white;
     padding-left: 35px; 
+    padding-top: 20px;  
+    padding-bottom: 20px;
 }
 
 .food {
@@ -29,8 +31,4 @@ h1 {
 
 #food-list {
     background: white;
-}
-
-.food-item {
-    padding: 10px 200px;
 }
